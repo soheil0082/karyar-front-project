@@ -500,11 +500,10 @@ a {
 }
 
 #section5 {
-  width: 100%;
-  height: fit-content;
-  background-image: url(Img/about_bg.png.webp);
-  background-size: cover;
-  background-repeat: none;
+    width: 100%;
+    height: fit-content;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .main-grid-5 {
